@@ -1,0 +1,30 @@
+.contenedor	{
+	background-color: white;
+	border: 1px solid #B9BCBD;
+	width: 600px; 
+}
+
+.cajayellow	{
+	background: #FCFC21;
+	width: 25%;
+	height: 100px;
+	margin: 0px;
+	float: right;
+
+}
+
+.cajablue	{
+	background: #4747FC;
+	width: 25%;
+	height: 100px;
+	margin: 0px;
+	float: right;
+}
+
+.cajapink {
+	background: #FF005D;
+	width: 25%;
+	height: 100px;
+	margin: 0px;
+	float: right;
+}
